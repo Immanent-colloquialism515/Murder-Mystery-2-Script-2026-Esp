@@ -1,0 +1,6 @@
+pynput
+scipy
+pillow
+pywin32
+tqdm
+opencv-python
